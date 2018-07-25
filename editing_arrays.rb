@@ -1,8 +1,8 @@
-rainbow_colors = [
-  "yellow",
-  "default",
-  "light_cyan"
-]
+# rainbow_colors = [
+#   "yellow",
+#   "default",
+#   "light_cyan"
+# ]
 
 RAINBOW_COLORS = ["yellow", "default", "light_cyan"]
 
